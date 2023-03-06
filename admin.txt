@@ -1,0 +1,5 @@
+kia|sorento|45000|2012|reer|78000|80000|
+kia|sorento|100000|2012|reer|78000|80000|
+Range Rover|Sport|20000|2018|yeet|789087|567897|
+nissan|teena|70000|2012|wdfw|131211|2312312|
+toyota|aqua|40000|2017|qwdd|3123231|313112|
